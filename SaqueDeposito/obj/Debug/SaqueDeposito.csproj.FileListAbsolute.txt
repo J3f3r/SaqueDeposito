@@ -1,0 +1,7 @@
+C:\Users\Jeferson\source\repos\SaqueDeposito\SaqueDeposito\bin\Debug\SaqueDeposito.exe.config
+C:\Users\Jeferson\source\repos\SaqueDeposito\SaqueDeposito\bin\Debug\SaqueDeposito.exe
+C:\Users\Jeferson\source\repos\SaqueDeposito\SaqueDeposito\bin\Debug\SaqueDeposito.pdb
+C:\Users\Jeferson\source\repos\SaqueDeposito\SaqueDeposito\obj\Debug\SaqueDeposito.csproj.AssemblyReference.cache
+C:\Users\Jeferson\source\repos\SaqueDeposito\SaqueDeposito\obj\Debug\SaqueDeposito.csproj.CoreCompileInputs.cache
+C:\Users\Jeferson\source\repos\SaqueDeposito\SaqueDeposito\obj\Debug\SaqueDeposito.exe
+C:\Users\Jeferson\source\repos\SaqueDeposito\SaqueDeposito\obj\Debug\SaqueDeposito.pdb
